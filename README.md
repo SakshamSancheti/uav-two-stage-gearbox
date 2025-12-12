@@ -42,5 +42,4 @@ Engineering-Drawings/
 - MMPDS (Aerospace Based Material Properties and structural design)
 ---
 
-## 📄 Status
-Base structure created — calculations and models will be added next.
+
